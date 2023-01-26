@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"jsx": "react",
+		"module": "es6",
+		"target": "es6",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"incremental": true,
+		"downlevelIteration": true
+	},
+	"include": ["src/**/*.ts", "src/**/*.tsx"],
+	"exclude": ["node_modules"]
+}

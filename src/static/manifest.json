@@ -1,0 +1,23 @@
+{
+	"name": "Chrome Extension With React",
+	"description": "This is the boilerplate for the chrome extension with React",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"icons": {
+		"16": "logo.png",
+		"48": "logo.png",
+		"128": "logo.png"
+	},
+	"action": {
+		"default_title": "Chrome Extension With React",
+		"default_popup": "popup.html"
+	},
+	"options_page": "options.html",
+	"content_scripts": [
+		{
+			"matches": ["https://www.google.com/"],
+			"js": ["contentScript.js"]
+		}
+	],
+	"permissions": ["storage"]
+}
