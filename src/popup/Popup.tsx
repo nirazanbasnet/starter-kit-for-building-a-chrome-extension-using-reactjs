@@ -1,9 +1,9 @@
 import React from 'react'
 function Popup() {
     return (
-        <div className='min-w-[18.125rem] rounded-[0.3125rem] text-[#333333]'>
+        <div className='w-52 h-20'>
             <div>
-                This is a popup section
+                <h1 className='text-center p-5 text-xl'>This is a popup section</h1>
             </div>
         </div>
     )
