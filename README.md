@@ -1,4 +1,4 @@
-## 🚀🚀 Build Chrome Extension | ReactJs | Typescript | TailwindCss Starter Kit 🚀🚀
+## 🚀🚀 ReactJs | Chrome Extension Starter Kit 🚀🚀
 
 <div>You will get all the tools inside this starter kit to get start your project </div>
 
