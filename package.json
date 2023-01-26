@@ -2,7 +2,7 @@
 	"name": "chrome-extension-with-react",
 	"version": "1.0.0",
 	"main": "index.js",
-	"repository": "",
+	"repository": "https://github.com/nirazanbasnet/starter-kit-for-building-a-chrome-extension-using-reactjs",
 	"author": "Chrome Extension with ReactJs",
 	"license": "MIT",
 	"scripts": {
